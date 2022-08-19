@@ -1,8 +1,8 @@
 # data-structures-and-algorithms-in-python
 
 ### Objectives
-1. understand the concepts and try to draw them all.
-2. learn to utilize the fundamental data structures and algorithms and their variants.
+1. understand the concepts and try to draw them all on paper.
+2. learn to utilize the fundamental DSA and their variants.
 3. implement them in python.
 4. solve the problems at solved.ac and programmers.
 
