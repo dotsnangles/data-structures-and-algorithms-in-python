@@ -18,6 +18,8 @@
 
 ### User-Defined
 
+[Summary](https://www.geeksforgeeks.org/what-is-data-structure-types-classifications-and-applications/#classification:~:text=Classification%20of%20Data%20Structure%3A%C2%A0)
+
 - Linear
   - Static
     - **Array**
