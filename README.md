@@ -17,21 +17,22 @@
 - Dictionary
 
 #### User-Defined
-
-- Stack
-- Queue
-- Linked List
-- Tree
-- Graph
+- Linear
+    - Array
+    - Stack
+    - Queue
+    - Linked List
+- None-Linear
+    - Tree - Heap - Trie
+    - Graph
 
 ### Algorithms
 
-- Searching
-- Sorting
+- Searching & Sorting
 - Recursion
 - BFS & DFS
-- Dijkstra’s algorithm
-- Brute Force / Greedy Algorithm/ Divide and Conquer
+- Dijkstra’s Algorithm
+- Brute Force / Greedy / Divide and Conquer
 - Dynamic Programming - Memoization
 
 ---
