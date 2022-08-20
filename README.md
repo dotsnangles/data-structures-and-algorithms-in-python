@@ -18,10 +18,12 @@
 
 #### User-Defined
 - Linear
-    - Array
-    - Stack
-    - Queue
-    - Linked List
+    - Static
+        - Array
+    - Dynamic
+        - Stack
+        - Queue
+        - Linked List
 - None-Linear
     - Tree - Heap - Trie
     - Graph
