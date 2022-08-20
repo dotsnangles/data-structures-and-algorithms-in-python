@@ -11,10 +11,15 @@
 
 ### Built-In
 
-- List
-- Tuple
-- Set
-- Dictionary
+- List: mutable, ordered
+  - just like dynamic sized arrays in other languages.
+  - the most powerful tool in Python.
+- Tuple: immutable, ordered
+  - faster than List.
+- Set: mutable, unordered 
+  - elements are not duplicated.
+- Dictionary: mutable, ordered (Python 3.7 and above)
+  - Keys are not duplicated.
 
 ### User-Defined
 
