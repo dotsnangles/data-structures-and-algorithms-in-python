@@ -63,6 +63,7 @@
 
 - [Classification of Data Structure](https://www.geeksforgeeks.org/what-is-data-structure-types-classifications-and-applications/#classification:~:text=Classification%20of%20Data%20Structure%3A%C2%A0)
 - [Common Operations on Various Data Structures](https://www.geeksforgeeks.org/common-operations-on-various-data-structures/)
+- [Python Data Structures And Algorithms](https://www.geeksforgeeks.org/python-data-structures-and-algorithms/)
 - [Classification of Algorithms](https://www.geeksforgeeks.org/classification-of-algorithms-with-examples/)
 - grokking algorithms - Aditya Y. Bhargava
 - Introduction to Algorithms Fourth Edition - Thomas H. Cormen, et al.
