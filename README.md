@@ -1,11 +1,15 @@
 # data-structures-and-algorithms-in-python
 
+## Deadline
+
+- 20220820 ~ 20220828
+
 ## Objectives
 
 1. understand the concepts and try to draw them all on paper.
 2. learn to utilize the fundamental DSA and their variants.
 3. implement them in python.
-4. solve the problems at LeetCode.
+4. start to solve the problems at LeetCode.
 
 ## Data Structures in Python
 
@@ -16,7 +20,7 @@
   - the most powerful tool in Python.
 - Tuple: immutable, ordered
   - faster than List.
-- Set: mutable, unordered 
+- Set: mutable, unordered
   - elements are not duplicated.
 - Dictionary: mutable, ordered (Python 3.7 and above)
   - Keys are not duplicated.
