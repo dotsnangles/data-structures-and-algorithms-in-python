@@ -39,6 +39,7 @@
 - None-Linear
   - **Tree** - Heap - Trie
   - **Graph**
+    - vertex, edge, degree, circuit, connected, weights
   - [Tree vs Graph](https://www.geeksforgeeks.org/difference-between-graph-and-tree/#:~:text=by%20following%20Fig.-,Graph%20vs%20Tree,-The%20basis%20of)
 
 ### Common Operations
