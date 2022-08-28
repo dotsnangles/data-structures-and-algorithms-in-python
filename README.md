@@ -58,7 +58,7 @@
 - BFS & DFS
 - Dijkstra’s Algorithm
 - Brute Force / Greedy / Divide and Conquer
-- Dynamic Programming - Memoization
+- Dynamic Programming - Memoization / Tabulation
 
 ## References
 
